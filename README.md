@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hola, soy Juan 👋
 
-<!--
-**juanmanser/juanmanser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data / Software — series temporales, causal inference y bases de datos.
 
-Here are some ideas to get you started:
+Vengo trabajando en proyectos de análisis de series temporales, medición de incrementalidad causal y diseño de bases de datos. Ahora estoy armando ejemplos concretos de ese trabajo, más un par de proyectos personales para mostrar el flujo completo: ingesta de datos → procesamiento → dashboard.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Buscando:** oportunidades como Data/Software Engineer, con foco en análisis de datos, causal inference y desarrollo de herramientas de datos.
+
+**Proyectos destacados:**
+- 🔜 Series temporales — próximamente
+- 🔜 Incrementalidad causal — próximamente
+- 🔜 Dashboard Garmin — próximamente
+
+📫 Contacto: juanmanser@gmail.com
